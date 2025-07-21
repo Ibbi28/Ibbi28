@@ -12,7 +12,7 @@ I'm building my skills in:
 
 Here are my featured Jupyter Notebook projects:
 
-### [Laptop Price Prediction](https://github.com/yourusername/laptop-price-prediction)
+### [Laptop Price Prediction](https://github.com/Ibbi28/Laptop_Price_Predictor)
 📊 Predicts laptop prices using machine learning regression models  
 ✅ Cleaned & preprocessed dataset with feature engineering  
 🏆 Best Model: XGBoost (R² Score: 0.9028, MAE: 0.15)  
